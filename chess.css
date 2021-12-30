@@ -1,0 +1,17 @@
+button {
+    height: 100%;
+    width: 100%;
+}
+
+td{
+    width: 20px;
+    height: 20px;
+}
+
+.piece{
+    background-color: black;
+}
+
+.canMove{
+    background-color: red;
+}
